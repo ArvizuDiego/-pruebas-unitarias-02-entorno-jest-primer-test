@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 node_modules/
 .venv/
+=======
+>>>>>>> 7ce53e33e109ef4887c6bb6e3d9133a8bdb99da6
 # Logs
 logs
 *.log
@@ -137,4 +140,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> cbf0c6615c8b3c135de03695803230e41db330b3
+=======
+>>>>>>> 7ce53e33e109ef4887c6bb6e3d9133a8bdb99da6
